@@ -14,10 +14,14 @@
 # Welcome to My Personal Website
 
 ## Profile
-<div align="left">
-  <img src="https://github.com/pdraghis97/pdraghis/blob/main/Draghis_square.jpg" alt="Profile Image" width="200" height="200" style="border-radius:50%">
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/pdraghis97/pdraghis/blob/main/Draghis_square.jpg" alt="Profile Image" width="200" height="200" style="border-radius:50%; margin-right: 20px;">
+  
+  <div style="text-align: center;">
+    Hello! I am Dr. Paul Draghis. Welcome to my personal website. This site is currently under construction. For my previous website, please see https://sites.google.com/umich.edu/pdraghis/ 
+  </div>
 </div>
-Hello! I am Dr. Paul Draghis. Welcome to my personal website. This site is currently under construction. For my previous website, please see https://sites.google.com/umich.edu/pdraghis/ 
+
 
 Feel free to explore the following pages:
 
