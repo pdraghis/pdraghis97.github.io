@@ -19,7 +19,7 @@ Hello! I am [Your Name], and welcome to my personal website. I am a passionate [
 
 Feel free to explore the following pages:
 
-- [CV](#cv)
+- [CV](https://github.com/pdraghis97/pdraghis/blob/main/cv-Paul%20Draghis_complete.pdf)
 - [Research](#research)
 - [Travel](#travel)
 
