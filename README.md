@@ -14,7 +14,7 @@
 # Welcome to My Personal Website
 
 ## Profile
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
   <img src="https://github.com/pdraghis97/pdraghis/blob/main/Draghis_square.jpg" alt="Profile Image" width="200" height="200" style="border-radius:50%; margin-right: 20px;">
   
   <div style="text-align: center;">
