@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Paul Draghis</h1>
-<h3 align="center">MIT Kavli Postdoctoral Fellow</h3>
+<h1 align="Left">Hi 👋, I'm Paul Draghis</h1>
+<h3 align="Left">MIT Kavli Postdoctoral Fellow</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: pdraghis@mit.edu</h3>
 <p align="left">
 </p>
 
