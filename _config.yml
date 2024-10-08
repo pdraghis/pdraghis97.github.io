@@ -13,7 +13,7 @@ collections:
     output          : true
 
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 
 # Handling Reading
 safe                : false
