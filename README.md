@@ -23,6 +23,14 @@
 </div>
 
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pdraghis97/pdraghis/blob/main/Draghis_square.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/pdraghis97/pdraghis/blob/main/Draghis_square.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/pdraghis97/pdraghis/blob/main/Draghis_square.jpg">
+</picture>
+
+
+
 
 Feel free to explore the following pages:
 
