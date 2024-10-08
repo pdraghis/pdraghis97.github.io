@@ -1,3 +1,4 @@
+<!--
 <h1 align="Left">Hi 👋, I'm Paul Draghis</h1>
 <h3 align="Left">MIT Kavli Postdoctoral Fellow</h3>
 
@@ -7,3 +8,48 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+//-->
+
+
+# Welcome to My Personal Website
+
+## Profile
+![Your Profile Image Here](path-to-image)  
+Hello! I am [Your Name], and welcome to my personal website. I am a passionate [Your Profession/Role] interested in [briefly mention key interests]. This site contains information about my professional journey, research projects, and personal adventures.
+
+Feel free to explore the following pages:
+
+- [CV](#cv)
+- [Research](#research)
+- [Travel](#travel)
+
+---
+
+## CV
+Here you can include a summary of your academic and professional background.  
+For my full CV, click [here](path-to-cv.pdf).
+
+---
+
+## Research
+I have worked on a variety of research projects, ranging from [topic A] to [topic B].  
+- **Project 1**: Brief description.
+- **Project 2**: Brief description.
+
+Check out my [Research page](#research-page) for more details.
+
+---
+
+## Travel
+In my free time, I enjoy traveling to new places and exploring different cultures.  
+Some of my favorite destinations:
+- Place A
+- Place B
+- Place C
+
+Stay tuned for stories and photos on my [Travel page](#travel-page).
+
+---
+
+## Contact
+Feel free to reach out to me at [Your Email] or connect with me on [LinkedIn](https://www.linkedin.com).
