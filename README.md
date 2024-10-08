@@ -14,7 +14,9 @@
 # Welcome to My Personal Website
 
 ## Profile
-![Your Profile Image Here]([path-to-image](https://github.com/pdraghis97/pdraghis/blob/main/Draghis_square.jpg))  
+<div align="left">
+  <img src="https://github.com/pdraghis97/pdraghis/blob/main/Draghis_square.jpg" alt="Profile Image" width="200" height="200" style="border-radius:50%">
+</div>
 Hello! I am [Your Name], and welcome to my personal website. I am a passionate [Your Profession/Role] interested in [briefly mention key interests]. This site contains information about my professional journey, research projects, and personal adventures.
 
 Feel free to explore the following pages:
